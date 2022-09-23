@@ -1,5 +1,5 @@
 # file_converters
-Need to convert some files
+Using Tesseract and PyPDF
 
 To do:
 
