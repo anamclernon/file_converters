@@ -1,5 +1,5 @@
 # file_converters
-Using Tesseract and PyPDF
+Why spend 5 minutes filling out my insurance claim, when I can spend the whole day trying to automate it?
 
 To do:
 
